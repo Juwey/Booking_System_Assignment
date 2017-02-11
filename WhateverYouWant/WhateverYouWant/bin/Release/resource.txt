@@ -1,0 +1,4 @@
+Normal+15+10+10+Standard room with normal service.
+Deluxe+20+10+20+An upgraded version of the normal room with free flow drinks.
+Exec+35+10+30+Exclusive room for working adults with free flow drinks, cocktails and snacks provided.
+Party+100+10+50+Room made for large crowds, free flow drinks, cocktails, snacks as well as buffet.

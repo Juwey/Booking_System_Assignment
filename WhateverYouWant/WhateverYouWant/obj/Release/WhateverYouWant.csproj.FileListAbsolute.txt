@@ -1,0 +1,11 @@
+D:\Downloads\WhateverYouWant\WhateverYouWant\bin\Release\WhateverYouWant.exe.config
+D:\Downloads\WhateverYouWant\WhateverYouWant\bin\Release\WhateverYouWant.exe
+D:\Downloads\WhateverYouWant\WhateverYouWant\bin\Release\WhateverYouWant.pdb
+D:\Downloads\WhateverYouWant\WhateverYouWant\obj\Release\WhateverYouWant.ReceiptWindow.resources
+D:\Downloads\WhateverYouWant\WhateverYouWant\obj\Release\WhateverYouWant.MainPage.resources
+D:\Downloads\WhateverYouWant\WhateverYouWant\obj\Release\WhateverYouWant.KTVBooking.resources
+D:\Downloads\WhateverYouWant\WhateverYouWant\obj\Release\WhateverYouWant.Properties.Resources.resources
+D:\Downloads\WhateverYouWant\WhateverYouWant\obj\Release\WhateverYouWant.Resources.resources
+D:\Downloads\WhateverYouWant\WhateverYouWant\obj\Release\WhateverYouWant.csproj.GenerateResource.Cache
+D:\Downloads\WhateverYouWant\WhateverYouWant\obj\Release\WhateverYouWant.exe
+D:\Downloads\WhateverYouWant\WhateverYouWant\obj\Release\WhateverYouWant.pdb
